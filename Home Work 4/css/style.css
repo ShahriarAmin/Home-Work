@@ -1,0 +1,19 @@
+h1{
+    color:red;
+    background-color: black;
+}
+.control{
+    color: aqua;
+    background-color: blueviolet;
+}
+#heading-4{
+    color: blue;
+    background-color: yellow;
+}
+div{
+    background-color: red;
+    width: 500px;
+    padding: 10px;
+    margin: 10px;
+    font-size: 15px;
+}
